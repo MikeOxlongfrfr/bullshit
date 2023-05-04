@@ -1,0 +1,83 @@
+[few shots of starting to brew a cup of coffee - should be only about 5 seconds max]
+
+[me next to the coffee]
+
+In recent times, artificial intelligence, specifically Natural Language Processing, has seen a huge rise in popularity. Now, unlike ever before, AI is capable of creating human-like text.
+
+[me outside on a bench, still with the cup of coffee and now also my notebook]
+
+That comes with its drawbacks though as students have now begun using NLP models to write essays for them. Many teachers claim they can tell when students use AI to write their essays. But can they really? To find out we must first understand how NLP models work and how they differ from the human style of writing.
+
+[me next to a blank wall on which an animation will appear]
+
+At the core of the NLP model you’re probably the most familiar with - GPT - is what’s called a transformer. At a very basic level, the transformer takes in the prompt, splits it into tokens and then tries to predict what the next token will be. But what does that mean for us?
+
+[me at a table]
+
+It means that we, as humans, understand what we’re writing and are capable of creative thoughts. NLP models, on the other hand, just try to guess what the next token should be. 
+
+[me in the kitchen, preparing some ingredients that progressively get more and more random throughout the shot]
+
+And the thing about guessing is that it's not always accurate. Sure, GPT-4, which is what we’ll be using for this experiment, has a vast amount of knowledge and is pretty good at predicting patterns. But when it comes down to it, it's like trying to cook a dish just by guessing the ingredients. You might get close, but there's always going to be something a bit... off.
+
+[me stirring a pot on the stove, looking thoughtfully into it]
+
+Similarly, while an AI can generate pretty convincing text, it might lack the 'flavor' of human touch, the nuances that make our writing unique. So, theoretically, our teachers might have a point. They could potentially detect these 'off' elements in an AI-written essay.
+
+[bench again]
+
+But a theory is just that, a theory. So now we are going to put that theory to the test. I’ve prepared several essays, each with varying levels of AI assistance and gave them to literature teachers to see if they really can tell. Due to my network of contacts I had to write the essays in Czech, after all, I don’t know that many English teachers. But alas, I think I’ve figured out a way to use that to my advantage.
+
+[in the kitchen again, with 8 dishes of varying strangeness in front of me]
+
+I crafted 8 essays, which all share the same topic - “The Impact of Technology on our Society”. Along with each essay I’ll provide a questionnaire that, among other things, will contain the question “Do you think this essay was written with the asistence of AI?” and a question about how confident they are in their judgement. I’ll be giving all 8 essays to the teachers, but I’ve also decided to pick the 4 most interesting ones and let other people fill out the same questionnaire to see whether the teachers really have a sixth sense for picking out the AI written essays. But how did I manage to get varying levels of AI asistence? Well…
+
+[wall again]
+
+… here they are.
+Let’s start with the control. This essay was completely untouched by human hands. I let the AI write in Czech, where it tends to be a bit clumsier than in English. If anyone mistakes this for my writing, I'll be truly surprised. After this one there are 2 more very similar essays, each introducing one more variable.  The fourth essay had a bit more of my touch. I let the AI come up with the idea but I gave it some additional instructions like “focus more on the negative impacts of technology”. After that I translated it via DeepL and lightly edited it to smooth out any imperfections. The fifth essay was the same, but I translated it manually. The sixth essay is where things start to get really interesting. This time I didn’t make the AI work for me, instead I worked along with it, exchanging ideas and composing the essay together, to come up with the perfect essay. I then, again, manually translated the essay to let even more of my writing style shine through and make it truly indistinguishable. The seventh essay is pretty much just mine, but I got the AI to give me an outline to work with. And last but not least we’ve got the one written completely by me. This is the home-made poetry in a world of AI restaurants.
+
+The four I decided to give to the non-teachers are essays 1 - the fully AI one, essay 4 - where I started to introduce some of my ideas, essay 6, which I co-wrote along with the AI and essay 8, my own essay.
+
+[on a couch, with my notebook]
+
+But there is one more thing I haven’t addressed. The supposedly best way to figure out whether an AI wrote an essay or not is to use another AI to check that. For that reason, I’ve run each and every essay through every one of these tools I could find to see how they performed. But now, let’s get the experiment going.
+
+[b-roll of handing out essays and creating a forms questionnaire to send to the people I can’t meet irl]
+
+[back on the couch]
+
+Now that we have set our experiment in motion, let’s take a minute to discuss how our teachers actually might be able to tell the essays apart. It’s important to understand that even the most advanced NLP models aren’t perfect, which in itself isn’t so bad. We, after all, are not perfect either. But the problem stems from NLP models being imperfect in a different way. Since we’ve already spoken about dishes, let’s make some pasta.
+
+[b-roll of preparing pasta]
+
+[me in the kitchen next to the pasta while it is boiling]
+
+What do I mean by being imperfect in different ways? The way humans make mistakes is like measuring 59 grams of something instead of 60. However that is something our computer will always be able to do perfectly. The way our computers mess up is putting the wrong ingredients in. And the difference between putting salt instead of sugar in a dish is much more noticeable than having an extra gram of something then and there. That’s, at least in my opinion, what makes the AI written essays feel off.
+
+[me next to the now finished pasta]
+
+But, contrary to what you might think, it may not necessarily be the AI’s mistakes that teachers notice. Rather, it may be the lack of mistakes. I mean think about it. Wouldn’t receiving a borderline perfect essay from someone who can’t form a basic sentence be kinda suspicious? I’m over exaggerating a little bit, but still, doesn’t that make more sense than looking for almost non-existent details?
+
+[still in the same place, but from a different angle]
+
+But what if? What if you are able to write a whole essay without even a single grammatical error? What if your writing style by itself is very neutral? There is yet another issue. Average people like me and you may not be able to recognise someone’s writing style, but we aren’t teachers. Teachers grade essays all the time and they’ve seen many different writing styles, which means they most likely will be able to recognise someone’s writing style. That brings with it two issues. Well issues for the student, not the teacher. Firstly, the teacher is going to notice that your writing style has suddenly changed. Secondly, the AI’s writing style doesn’t change based on who it’s writing the essay for. That means the teacher will recognise not yours, but the AI’s writing style.
+
+[in front of the wall again]
+
+So how do we avoid our AI written essays being detected? That’s really the point of this experiment. As I’ve mentioned earlier, each essay is written with varying levels of input from me. What I’m looking to gather from this is how much I need to add to an essay to make it mine. So let’s look at the 8 essays again, but from a hypothetical point of view of a teacher to evaluate what the teachers might think when reading the essays.
+
+[for this part I’ll add the rules for each essay as an animation on the wall] 
+Essay 1 is pretty much obviously written by AI, its monotone and neutral, yet flawless nature just gives it away. Same goes for essay 2. Essay 3 I think will still get flagged as an AI written essay, but it at least might get a better score when it comes to writing. Essay 4 is in my opinion a bit less obvious, since we’re sort of moving away from the neutral-ish style, but it still should be recognisable. Essay 5 is where I started to manually translate the essays so my assumption is that from then on it will get a lot harder for the teachers. Essay 5 still has some signs of the AI-ish writing style, so it still will get recognised, but maybe not by everyone. Essay 6 is where my ideas and thoughts start to really shine through so my guess is that less than half the teachers will guess this one correctly. Essay 7 is about as close to my own writing as we’ll probably get whilst still making use of the AI. Essay 8 will most likely be identified as human-written by most of the teachers.
+
+[somewhere in nature, with no technology around]
+
+But before we get to the results, we’ve got one more question to answer. Is using AI to write essays, emails, articles, and all sorts of other stuff even ethical in the first place? There are many opinions on this spanning from “AI should get banned” to “I’m completely fine with it”. What makes this issue so difficult is that both sides have very solid arguments. My personal view on this is that it is a tool available to up that we should be able to use at our own discretion. I see it like the jump from typewriters to personal computers or the jump from film to digital photography. At that time having something that lets us see and correct our mistakes right away seemed like it would make our lives a bit too easy, it almost felt like cheating. To me AI and specifically NLP models are a very similar thing. They’re just a tool we now have access to. We can still write essays at school without having access to these tools so I don’t think they’ll make us less capable of writing. I do, however, see the other side’s argument and where they’re coming from. I get that this all might seem like we’re just cheating our way through life and won’t have any actual skills by the time we’re out of school. So whatever your view on this topic is, I encourage you to look at the other side and try to learn more. After all, that is what this is all about. Learning. Now, let's head back and see what we can learn from the results of our experiment.
+
+[while walking back towards the table with the laptop]
+
+It's important to remember that learning and understanding different perspectives is the core of what we're doing here. So let's dive into the results and see how our teachers and non-teachers fared in identifying AI-written essays and whether varying levels of human input managed to fool them.
+
+[at a desk, with my notebook]
+
+One more thing I need to clarify before we get to the results is that there will be some bias. The essays are in Czech so the results might not be representative of what they’d be in English, or any other language for that matter. A bigger problem though is that I only know so many teachers. Hence what they think about the essays may not match up at all with what the average teacher may think. All I’m trying to say with this is take these results with a grain of salt. They are not a definitive guide to cheating, they’re closer to being just a fun fact you can tell your friends.
